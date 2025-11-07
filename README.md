@@ -47,6 +47,7 @@ Includes:
 | GitHub | Project Hosting |
 
 ---
+![Dashboard Overview](images/dashboard1_overview.png)
 
 
 ---
